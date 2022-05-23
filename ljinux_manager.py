@@ -3,7 +3,7 @@
 import os 
 from time import sleep
 
-print("Welcome to the ljinux installer scipt.\n")
+print("Welcome to the ljinux manager scipt.\n")
 
 #Functions
 
