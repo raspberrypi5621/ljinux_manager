@@ -15,7 +15,7 @@ def connect():
 	os.system("cd src/ljinux/source && make connection")
 
 def flash():
-	print("Please connect your pico with the boot select button pressed.")
+	input("Please connect your pico with the boot select button pressed and press enter.")
 	sleep(1)
 	print("Formating...")
 	sleep(1)
